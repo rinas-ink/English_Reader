@@ -1,5 +1,5 @@
 # Frank Reader
-An application that makes reading in English easier for Russian-speaking people.
+Application that allows user to load books from its library, read them using the built-in translator and save unknown phrases to a personal dictionary for later study. It makes easier to read in English for Russian-speaking people.
 
 Created during the spring semester of the first year of the Applied Mathematics and Informatics program at the Higher School of Economics of St. Petersburg.
 
